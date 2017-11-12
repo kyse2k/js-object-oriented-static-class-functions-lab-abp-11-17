@@ -16,5 +16,5 @@ class Question {
 }
 Question._All = [];
 
-let newQuestion = new Question("What's your favorite food?")
-newQuestion.save()
+//let newQuestion = new Question("What's your favorite food?")
+//newQuestion.save()
