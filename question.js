@@ -14,7 +14,7 @@ class Question {
     return this.All()[id - 1]
   }
 }
-Question._All = []
+Question._All = [];
 
 let newQuestion = new Question("Where in the world is carmen sandiego?")
 newQuestion.save()
